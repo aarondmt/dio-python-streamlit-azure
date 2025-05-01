@@ -1,0 +1,16 @@
+CREATE TABLE Produtos (
+    id INT IDENTITY(1, 1) PRIMARY KEY,
+    nome NVARCHAR(255),
+    descricao NVARCHAR(MAX),
+    preco DECIMA(18, 2),
+    imagem_url NVARCHAR(2083)
+)
+
+AZURE SQL
+sqllab001dbdevsouthbrazil
+dbsrvdevbrazilsouth
+aarondumontadminuser911004
+&2025@04#28P@$$w0rD!
+
+STORAGE ACCOUNT
+stadevbrazilsouthdio001
